@@ -164,7 +164,7 @@ Pantallas simples y funcionales para iniciar sesión o crear una cuenta nueva.
 
 ###  Página de Inicio
 
-Vista principal con el carrusel de libros destacados y últimos lanzamientos.
+Vista principal del usuari normal con el carrusel de libros destacados.
 
 ![Inicio](capturas-libreria/capturas-usuario/home.png)
 
@@ -199,7 +199,7 @@ Información completa del libro, stock, descripción y botón para agregar al ca
 
 ---
 
-### Realización de la Compra
+### Realización de la Compra y Checkout
 
 Bolsa de compras flotante con control de cantidades, subtotal y botón de pagar.
 
@@ -209,29 +209,39 @@ Bolsa de compras flotante con control de cantidades, subtotal y botón de pagar.
 
 ![Carrito](capturas-libreria/capturas-usuario/pago3.png)
 
----
-
-###  Checkout
-
-Formulario para dirección de envío, selección de método de pago y revisión del pedido.
-
-![Checkout](src/assets/capturas/checkout.png)
 
 ---
 
-###  Vista del Administrador (opcional)
+###  Vista del Administrador 
 
 Espacio para que los administradores gestionen libros, pedidos y usuarios.
 
-![Administrador](src/assets/capturas/administrador.png)
+![Administrador](capturas-libreria/capturas-admin-editor/home-admin.png)
+
+![Administrador](capturas-libreria/capturas-admin-editor/home-admin2.png)
+
 
 ---
 
-###  Interfaz Responsiva
+###  Visualizacion del libro y generacion de repostes.
 
-Diseño adaptable para móviles y tablets.
+Visualizacion desde el usuario administrador del libro y reporte.
 
-![Responsivo](src/assets/capturas/responsivo.png)
+![Responsivo](capturas-libreria/capturas-admin-editor/libro-admin.png)
+
+![Responsivo](capturas-libreria/capturas-admin-editor/reporte.png)
+
+---
+
+###  Gestion de usuarios (creacion y edicion)
+
+gestion de usuario, edicion, creacion y eliminaci´0n.
+
+![Responsivo](capturas-libreria/capturas-admin-editor/gestion-u.png)
+
+![Responsivo](capturas-libreria/capturas-admin-editor/creacion-u.png)
+
+![Responsivo](capturas-libreria/capturas-admin-editor/creacion-u.png)
 
 ---
 
