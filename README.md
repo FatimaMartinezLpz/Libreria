@@ -21,9 +21,12 @@ Backend Laravel: API RESTful para gestión, autenticación y control de datos.
 
 ## Estructura general del proyecto
 
-![Inicio](src/assets/capturas/inicio.png)
+![Inicio](capturas-libreria/estructura/estructura1.png)
 
-![Inicio](src/assets/capturas/inicio.png)
+![Inicio](capturas-libreria/estructura/estructura2.png)
+
+![Inicio](capturas-libreria/estructura/estructura3.png)
+
 
 ---
 
@@ -150,8 +153,13 @@ Panel de administración para usuarios con rol admin (desde frontend y backend).
 
 Pantallas simples y funcionales para iniciar sesión o crear una cuenta nueva.
 
-![Login](src/assets/capturas/login.png)  
-![Registro](src/assets/capturas/registro.png)
+![Login](capturas-libreria/capturas-usuario/login.png)  
+
+![Login](capturas-libreria/capturas-usuario/login2.png)  
+
+![Login](capturas-libreria/capturas-usuario/login3.png)  
+
+![Login](capturas-libreria/capturas-usuario/login4.png)  
 
 ---
 
@@ -159,7 +167,16 @@ Pantallas simples y funcionales para iniciar sesión o crear una cuenta nueva.
 
 Vista principal con el carrusel de libros destacados y últimos lanzamientos.
 
-![Inicio](src/assets/capturas/inicio.png)
+![Inicio](capturas-libreria/capturas-usuario/home.png)
+
+![Inicio](capturas-libreria/capturas-usuario/home1.png)
+
+![Inicio](capturas-libreria/capturas-usuario/home2.png)
+
+![Inicio](capturas-libreria/capturas-usuario/home3.png)
+
+![Inicio](capturas-libreria/capturas-usuario/home4.png)
+
 
 ---
 
