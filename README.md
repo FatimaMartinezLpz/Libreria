@@ -127,8 +127,7 @@ Panel de administración para usuarios con rol admin (desde frontend y backend).
 
 ## Tecnologías usadas
 
-- Angular (TypeScript, HTML, CSS)  
-- RxJS para manejo reactivo de datos  
+- Angular (TypeScript, HTML, CSS)    
 - Formularios reactivos para validación  
 - Pipes para formatos de moneda y números  
 - Directivas estructurales (`*ngIf`, `*ngFor`) para control de vistas  
@@ -180,11 +179,15 @@ Vista principal con el carrusel de libros destacados y últimos lanzamientos.
 
 ---
 
-###  Búsqueda de Libros
+###  Búsqueda de Libros y Filtros
 
 Búsqueda por título, autor o palabra clave con resultados inmediatos.
 
-![Búsqueda](src/assets/capturas/busqueda.png)
+![Búsqueda](capturas-libreria/capturas-usuario/busqueda.png)
+
+![Búsqueda](capturas-libreria/capturas-usuario/filtro.png)
+
+![Búsqueda](capturas-libreria/capturas-usuario/filtro2.png)
 
 ---
 
@@ -192,15 +195,19 @@ Búsqueda por título, autor o palabra clave con resultados inmediatos.
 
 Información completa del libro, stock, descripción y botón para agregar al carrito.
 
-![Detalle del Libro](src/assets/capturas/detalle-libro.png)
+![Detalle del Libro](capturas-libreria/capturas-usuario/libro.png)
 
 ---
 
-### 🛒 Carrito de Compras
+### Realización de la Compra
 
 Bolsa de compras flotante con control de cantidades, subtotal y botón de pagar.
 
-![Carrito](src/assets/capturas/carrito.png)
+![Carrito](capturas-libreria/capturas-usuario/pago.png)
+
+![Carrito](capturas-libreria/capturas-usuario/pago2.png)
+
+![Carrito](capturas-libreria/capturas-usuario/pago3.png)
 
 ---
 
