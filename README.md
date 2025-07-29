@@ -1,13 +1,13 @@
-## Proyecto Mi Librería - Angular + Laravel
+## Proyecto Mi Librería EQUIPO 6 - Angular + Laravel
 
 proyecto generado utilizando [Angular CLI](https://github.com/angular/angular-cli) version 20.0.5.
 
 
 ## Integrantes del equipo
 
-Martínez López Fátima
+Martínez López Fátima Desarrollador y diseñador
 
-Guzmán Jiménez Alary
+Guzmán Jiménez Alary Desarrollador y diseñador
 
 
 ## Descripción
